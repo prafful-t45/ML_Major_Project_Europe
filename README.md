@@ -14,8 +14,8 @@ This project is completed as the partial fulfillment of the course on Machine Le
 | ./data   | Contains a file with the link of all data sources used|
 | ./data/denmark_adult.csv   | Denmark Adult data|
 |./data/denmark_age_compare.csv|Vaccination data by week of all age groups|
-|./data/denmark_health|vaccination data of first dose and full dose|
-|./data/denmark_old|vaccination data of all doses of age > 65|
+|./data/denmark_health.csv|vaccination data of first dose and full dose|
+|./data/denmark_old.csv|vaccination data of all doses of age > 65|
 |contributions.txt|Description of work by each member|
 |requirements.txt|Contains the list of libraries required to run the code|
 |README.MD|description of contents of src/ and data/ |
