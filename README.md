@@ -7,9 +7,8 @@ This project is completed as the partial fulfillment of the course on Machine Le
 | Folder/Files                   | Description                                                 |
 | -------------------------------| ----------------------------------------------------------- |
 | ./src                          | Contains 4 ipynb files (each for an analysis of a country)  |
-|./src/germany.ipynb             | Contains all the analysis related to Germany                |
+|./src/Germany_Austria.ipynb     | Contains all the analysis related to Germany and Austria    |
 |./src/italy.ipynb               | Contains all the analysis related to Italy                  |
-|./src/austria.ipynb             | Contains all the analysis related to Austria                |
 |./src/denmark.ipynb             | Contains all the analysis related to Denmark                |
 | ./data                         | Contains a file with the link of all data sources used      |
 | ./data/denmark_adult.csv       | Denmark Adult data                                          |
