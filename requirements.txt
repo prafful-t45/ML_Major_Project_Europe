@@ -1,0 +1,21 @@
+# Requirements
+
+## The following python libraries are required for the project to run as intended
+EXTERNAL:
+1. Pandas 
+2. Numpy
+3. Matplotlib
+4. Seaborn
+5. io
+6. Requests
+7. Iplot
+8. Pytorch
+9. Sklearn
+10. DateTime
+11. fbProphet
+12. StatsModel
+13. Plotly
+
+INTERNAL:
+1. sys
+2. warnings
