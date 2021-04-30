@@ -1,0 +1,31 @@
+We divided the countries in Europe mainly worked on one country per individual , collected data and done analysis on the same
+
+Shubham Kumar: 2017B4A30712G 
+i)Worked on Italy country
+ii)collected the data for the same 
+iii)done the visualization 
+iv)used models such as polynomial, fbProphet and holt model and done the prediction sing the same model.
+
+
+Jasdeep Singh: 2017B4A30748G
+i)Worked on Denmark country
+ii)collected the data for the same 
+iii)done the visualization 
+iv)used models such as polynomial, fbProphet and holt model and done the prediction sing the same model.
+
+
+
+
+Praffulla Tripathi: 2017A7PS0933G
+i)Worked on Austria country
+ii)collected the data for the same 
+iii)done the visualization 
+iv)used models such as polynomial, fbProphet and holt model and done the prediction sing the same model.
+
+
+
+Upayan Das: 2017A8PS0617G
+i)Worked on Germany country
+ii)collected the data for the same 
+iii)done the visualization 
+iv)used models such as polynomial, fbProphet and holt model and done the prediction sing the same model.
